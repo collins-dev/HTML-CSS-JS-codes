@@ -29,7 +29,7 @@ body{
 }
 @keyframes loading {
     0%,100%{
-        height: 1000px;
+        height: 10px;
         background: #ffd116;
     }
     
